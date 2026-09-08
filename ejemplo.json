@@ -1,5 +1,5 @@
 {
   "name": "Ejemplo",
   "description": "Este es un archivo de ejemplo para practicar Git",
-  "bug_arreglado": "Crítico"
+  "feature": "Agrega_suscripcion"
 }
